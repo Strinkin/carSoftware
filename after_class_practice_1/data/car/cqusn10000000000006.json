@@ -1,0 +1,52 @@
+{
+  "serial_number": "cqusn10000000000006",
+  "chassis": {
+    "serial_number": "dp10000006",
+    "model": "SCOUT MINI",
+    "wheel_base": 451,
+    "track_width": 490,
+    "min_ground_clearance": 115,
+    "min_turning_radius": 0,
+    "drive_type": "四轮四驱",
+    "max_travel_distance": 10,
+    "tire": {
+      "model": 0,
+      "size": 172
+    }
+  },
+  "agx": {
+    "model": "AGX Xavier",
+    "AI": 32,
+    "cuda_cores": 512,
+    "tensor_cores": 64,
+    "memory": 32,
+    "storage": 32
+  },
+  "camera": {
+    "model": "RealSense D435i",
+    "rgb_camera": "D430",
+    "rgb_resolution": {"width": 1920, "height": 1080},
+    "rgb_fps": 30,
+    "fov": {"width": 87, "height": 58},
+    "depth_fps": 90
+  },
+  "lidar": {
+    "model": "RS-Helios-16",
+    "channels": 16,
+    "range": 100,
+    "power": 8
+  },
+  "imu": {
+    "model": "CH110",
+    "manufacturer": "NXP"
+  },
+  "screen": {
+    "size": 11.6,
+    "model": "super"
+  },
+  "battery": {
+    "voltage": 24,
+    "capacity": 15,
+    "charge_time": 2
+  }
+}
