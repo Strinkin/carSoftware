@@ -36,6 +36,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -60,11 +61,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -103,11 +105,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "message-v1"
     backtrace:
@@ -128,7 +131,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
       
       The C compiler identification is GNU, found in:
-        C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/4.1.0/CompilerIdC/a.exe
+        C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/4.1.0/CompilerIdC/a.exe
       
   -
     kind: "find-v1"
@@ -159,6 +162,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -179,11 +183,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -213,6 +218,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -233,11 +239,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -267,6 +274,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -287,11 +295,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -321,6 +330,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -341,11 +351,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -375,6 +386,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -395,11 +407,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -429,6 +442,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -449,11 +463,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -483,6 +498,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -503,11 +519,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -537,6 +554,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -557,11 +575,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -591,6 +610,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -611,11 +631,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -645,6 +666,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -665,11 +687,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -699,6 +722,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -731,6 +755,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/tapi"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/tapi.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/tapi.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/tapi"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/tapi.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/tapi.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/tapi"
@@ -757,11 +784,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -794,6 +822,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -826,6 +855,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.2.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.2.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.2"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.2.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.2.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.2"
@@ -865,6 +897,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15"
@@ -904,6 +939,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar15.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar15.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar15"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar15.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar15.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar15"
@@ -931,11 +969,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -968,6 +1007,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -1000,6 +1040,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.2.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.2.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.2"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.2.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.2.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.2"
@@ -1039,6 +1082,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15"
@@ -1078,6 +1124,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib15.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib15.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib15"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib15.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib15.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib15"
@@ -1105,11 +1154,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -1148,11 +1198,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "message-v1"
     backtrace:
@@ -1173,7 +1224,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is GNU, found in:
-        C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/4.1.0/CompilerIdCXX/a.exe
+        C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/4.1.0/CompilerIdCXX/a.exe
       
   -
     kind: "find-v1"
@@ -1207,6 +1258,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -1239,6 +1291,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.2"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.2.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.2.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.2"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.2.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.2.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.2"
@@ -1278,6 +1333,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar-15"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar-15"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar-15"
@@ -1317,6 +1375,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ar15"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar15.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar15.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ar15"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar15.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar15.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ar15"
@@ -1344,11 +1405,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -1381,6 +1443,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -1413,6 +1476,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.2"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.2.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.2.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.2"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.2.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.2.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.2"
@@ -1452,6 +1518,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib-15"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib-15"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib-15"
@@ -1491,6 +1560,9 @@ events:
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15.com"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15.exe"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/gcc-ranlib15"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib15.com"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib15.exe"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/gcc-ranlib15"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib15.com"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib15.exe"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/gcc-ranlib15"
@@ -1518,11 +1590,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
   -
     kind: "find-v1"
     backtrace:
@@ -1555,6 +1628,7 @@ events:
       - "C:/Windows/System32/OpenSSH/"
       - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
       - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Users/strinkin/SoftWare/Git/cmd/"
       - "C:/Users/strinkin/SoftWare/VSCode/bin/"
       - "C:/Users/strinkin/SoftWare/Python/anaconda3/"
       - "C:/Users/strinkin/SoftWare/Python/pycharm/bin/"
@@ -1587,11 +1661,12 @@ events:
         - "C:/WINDOWS/System32/OpenSSH/"
         - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
         - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "C:\\Users\\strinkin\\SoftWare\\VSCode\\bin"
-        - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin"
-        - "C:\\Users\\strinkin\\SoftWare\\Python\\anaconda3"
-        - "C:/Users/strinkin/SoftWare/Python/pycharm/bin"
-        - "C:\\Users\\strinkin\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\strinkin\\SoftWare\\Git\\cmd"
+        - "C:/Users/strinkin/SoftWare/VSCode/bin"
+        - "C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin"
+        - "C:/Users/strinkin/SoftWare/Python/anaconda3"
+        - "C:\\Users\\strinkin\\SoftWare\\Python\\pycharm\\bin"
+        - "C:/Users/strinkin/AppData/Local/Microsoft/WindowsApps"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/car_software1"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64"
@@ -1608,8 +1683,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-dn5hio"
-      binary: "C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-dn5hio"
+      source: "C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-uqksu3"
+      binary: "C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-uqksu3"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1618,13 +1693,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-dn5hio'
+        Change Dir: 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-uqksu3'
         
-        Run Build Command(s): C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_be1d6/fast
-        C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_be1d6.dir\\build.make CMakeFiles/cmTC_be1d6.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-dn5hio'
-        Building C object CMakeFiles/cmTC_be1d6.dir/CMakeCCompilerABI.c.obj
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c
+        Run Build Command(s): C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_fb73a/fast
+        C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_fb73a.dir\\build.make CMakeFiles/cmTC_fb73a.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-uqksu3'
+        Building C object CMakeFiles/cmTC_fb73a.dir/CMakeCCompilerABI.c.obj
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe
         Target: x86_64-w64-mingw32
@@ -1632,8 +1707,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_be1d6.dir\\'
-         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_be1d6.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccpciNrd.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fb73a.dir\\'
+         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_fb73a.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc04WBP9.s
         GNU C23 (Rev8, Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -1652,14 +1727,14 @@ events:
          C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
         End of search list.
         Compiler executable checksum: f68563dd6aebdc6b84233a210e98d3c3
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_be1d6.dir\\'
-         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccpciNrd.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fb73a.dir\\'
+         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc04WBP9.s
         GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45
         COMPILER_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.'
-        Linking C executable cmTC_be1d6.exe
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_be1d6.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.'
+        Linking C executable cmTC_fb73a.exe
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_fb73a.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe
         COLLECT_LTO_WRAPPER=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -1670,16 +1745,16 @@ events:
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
         COMPILER_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_be1d6.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_be1d6.'
-         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc0aFsWf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_be1d6.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_be1d6.dir/objects.a --no-whole-archive --out-implib libcmTC_be1d6.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fb73a.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_fb73a.'
+         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cctjMsNr.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_fb73a.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fb73a.dir/objects.a --no-whole-archive --out-implib libcmTC_fb73a.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc0aFsWf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_be1d6.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_be1d6.dir/objects.a --no-whole-archive --out-implib libcmTC_be1d6.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cctjMsNr.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_fb73a.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fb73a.dir/objects.a --no-whole-archive --out-implib libcmTC_fb73a.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.45
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_be1d6.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_be1d6.'
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_be1d6.dir/objects.a
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_be1d6.dir/objects.a @CMakeFiles\\cmTC_be1d6.dir\\objects1.rsp
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_be1d6.dir/objects.a -Wl,--no-whole-archive -o cmTC_be1d6.exe -Wl,--out-implib,libcmTC_be1d6.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-dn5hio'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fb73a.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_fb73a.'
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_fb73a.dir/objects.a
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_fb73a.dir/objects.a @CMakeFiles\\cmTC_fb73a.dir\\objects1.rsp
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_fb73a.dir/objects.a -Wl,--no-whole-archive -o cmTC_fb73a.exe -Wl,--out-implib,libcmTC_fb73a.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-uqksu3'
         
       exitCode: 0
   -
@@ -1712,13 +1787,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-dn5hio']
+        ignore line: [Change Dir: 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-uqksu3']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_be1d6/fast]
-        ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_be1d6.dir\\build.make CMakeFiles/cmTC_be1d6.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-dn5hio']
-        ignore line: [Building C object CMakeFiles/cmTC_be1d6.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_fb73a/fast]
+        ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_fb73a.dir\\build.make CMakeFiles/cmTC_fb73a.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-uqksu3']
+        ignore line: [Building C object CMakeFiles/cmTC_fb73a.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -1726,8 +1801,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Rev8  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_be1d6.dir\\']
-        ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_be1d6.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccpciNrd.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fb73a.dir\\']
+        ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_fb73a.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc04WBP9.s]
         ignore line: [GNU C23 (Rev8  Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -1746,8 +1821,8 @@ events:
         ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: f68563dd6aebdc6b84233a210e98d3c3]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_be1d6.dir\\']
-        ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccpciNrd.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fb73a.dir\\']
+        ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc04WBP9.s]
         ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45]
         ignore line: [COMPILER_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/]
@@ -1758,9 +1833,9 @@ events:
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_be1d6.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_be1d6.exe]
-        ignore line: [C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_be1d6.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fb73a.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_fb73a.exe]
+        ignore line: [C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_fb73a.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -1778,13 +1853,13 @@ events:
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_be1d6.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_be1d6.']
-        link line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc0aFsWf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_be1d6.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_be1d6.dir/objects.a --no-whole-archive --out-implib libcmTC_be1d6.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fb73a.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_fb73a.']
+        link line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cctjMsNr.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_fb73a.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fb73a.dir/objects.a --no-whole-archive --out-implib libcmTC_fb73a.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc0aFsWf.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cctjMsNr.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -1806,7 +1881,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_be1d6.exe] ==> ignore
+          arg [cmTC_fb73a.exe] ==> ignore
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> obj [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o]
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -1817,10 +1892,10 @@ events:
           arg [-LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_be1d6.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_fb73a.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_be1d6.dll.a] ==> ignore
+          arg [libcmTC_fb73a.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -1845,7 +1920,7 @@ events:
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> obj [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o]
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cc0aFsWf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_be1d6.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_be1d6.dir/objects.a --no-whole-archive --out-implib libcmTC_be1d6.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cctjMsNr.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_fb73a.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fb73a.dir/objects.a --no-whole-archive --out-implib libcmTC_fb73a.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         linker tool for 'C': C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [gcc_eh]
         remove lib [msvcrt]
@@ -1886,8 +1961,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-6mnw4l"
-      binary: "C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-6mnw4l"
+      source: "C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-3pkbzi"
+      binary: "C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-3pkbzi"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1897,13 +1972,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-6mnw4l'
+        Change Dir: 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-3pkbzi'
         
-        Run Build Command(s): C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_8b284/fast
-        C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_8b284.dir\\build.make CMakeFiles/cmTC_8b284.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-6mnw4l'
-        Building CXX object CMakeFiles/cmTC_8b284.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp
+        Run Build Command(s): C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_45a3f/fast
+        C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_45a3f.dir\\build.make CMakeFiles/cmTC_45a3f.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-3pkbzi'
+        Building CXX object CMakeFiles/cmTC_45a3f.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe
         Target: x86_64-w64-mingw32
@@ -1911,8 +1986,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8b284.dir\\'
-         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_8b284.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccMRx0cL.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_45a3f.dir\\'
+         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_45a3f.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccF7SbpW.s
         GNU C++17 (Rev8, Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -1937,14 +2012,14 @@ events:
          C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
         End of search list.
         Compiler executable checksum: 3a1a95c83f0136a64748ec8c5a2a87f3
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8b284.dir\\'
-         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccMRx0cL.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_45a3f.dir\\'
+         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccF7SbpW.s
         GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45
         COMPILER_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_8b284.exe
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_8b284.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_45a3f.exe
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_45a3f.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -1955,16 +2030,16 @@ events:
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
         COMPILER_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8b284.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_8b284.'
-         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cceSBzxZ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_8b284.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_8b284.dir/objects.a --no-whole-archive --out-implib libcmTC_8b284.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_45a3f.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_45a3f.'
+         C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccdxgin9.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_45a3f.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_45a3f.dir/objects.a --no-whole-archive --out-implib libcmTC_45a3f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cceSBzxZ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_8b284.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_8b284.dir/objects.a --no-whole-archive --out-implib libcmTC_8b284.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccdxgin9.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_45a3f.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_45a3f.dir/objects.a --no-whole-archive --out-implib libcmTC_45a3f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.45
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8b284.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_8b284.'
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_8b284.dir/objects.a
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_8b284.dir/objects.a @CMakeFiles\\cmTC_8b284.dir\\objects1.rsp
-        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_8b284.dir/objects.a -Wl,--no-whole-archive -o cmTC_8b284.exe -Wl,--out-implib,libcmTC_8b284.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-6mnw4l'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_45a3f.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_45a3f.'
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_45a3f.dir/objects.a
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\ar.exe qc CMakeFiles\\cmTC_45a3f.dir/objects.a @CMakeFiles\\cmTC_45a3f.dir\\objects1.rsp
+        C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_45a3f.dir/objects.a -Wl,--no-whole-archive -o cmTC_45a3f.exe -Wl,--out-implib,libcmTC_45a3f.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-3pkbzi'
         
       exitCode: 0
   -
@@ -2003,13 +2078,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-6mnw4l']
+        ignore line: [Change Dir: 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-3pkbzi']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_8b284/fast]
-        ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_8b284.dir\\build.make CMakeFiles/cmTC_8b284.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/CMakeScratch/TryCompile-6mnw4l']
-        ignore line: [Building CXX object CMakeFiles/cmTC_8b284.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/cmake.exe -E env VERBOSE=1 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe -f Makefile cmTC_45a3f/fast]
+        ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_45a3f.dir\\build.make CMakeFiles/cmTC_45a3f.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/CMakeScratch/TryCompile-3pkbzi']
+        ignore line: [Building CXX object CMakeFiles/cmTC_45a3f.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2017,8 +2092,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Rev8  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8b284.dir\\']
-        ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_8b284.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccMRx0cL.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_45a3f.dir\\']
+        ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\share\\cmake\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_45a3f.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccF7SbpW.s]
         ignore line: [GNU C++17 (Rev8  Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2043,8 +2118,8 @@ events:
         ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 3a1a95c83f0136a64748ec8c5a2a87f3]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8b284.dir\\']
-        ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccMRx0cL.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_45a3f.dir\\']
+        ignore line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccF7SbpW.s]
         ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45]
         ignore line: [COMPILER_PATH=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/]
@@ -2055,9 +2130,9 @@ events:
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_8b284.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_8b284.exe]
-        ignore line: [C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_8b284.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_45a3f.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_45a3f.exe]
+        ignore line: [C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_45a3f.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\strinkin\\SoftWare\\CPlusPlus\\msys64\\ucrt64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -2075,13 +2150,13 @@ events:
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8b284.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_8b284.']
-        link line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cceSBzxZ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_8b284.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_8b284.dir/objects.a --no-whole-archive --out-implib libcmTC_8b284.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_45a3f.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_45a3f.']
+        link line: [ C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccdxgin9.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_45a3f.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_45a3f.dir/objects.a --no-whole-archive --out-implib libcmTC_45a3f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cceSBzxZ.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccdxgin9.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -2103,7 +2178,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_8b284.exe] ==> ignore
+          arg [cmTC_45a3f.exe] ==> ignore
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> obj [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o]
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -2114,10 +2189,10 @@ events:
           arg [-LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_8b284.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_45a3f.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_8b284.dll.a] ==> ignore
+          arg [libcmTC_45a3f.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2143,7 +2218,7 @@ events:
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> obj [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o]
           arg [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\cceSBzxZ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_8b284.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_8b284.dir/objects.a --no-whole-archive --out-implib libcmTC_8b284.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\strinkin\\AppData\\Local\\Temp\\ccdxgin9.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_45a3f.exe C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_45a3f.dir/objects.a --no-whole-archive --out-implib libcmTC_45a3f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         linker tool for 'CXX': C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [msvcrt]
         remove lib [msvcrt]

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/strinkin/cpp_workspace/car_software1/build"
+			"value" : "c:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/g++.exe"
 		},
 		{
@@ -299,10 +299,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/bin/gcc.exe"
 		},
 		{
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/strinkin/cpp_workspace/car_software1/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/strinkin/cpp_workspace/car_software1"
+			"value" : "C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1367,7 +1367,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/strinkin/cpp_workspace/car_software1/build"
+			"value" : "C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/build"
 		},
 		{
 			"name" : "car_software1_IS_TOP_LEVEL",
@@ -1391,7 +1391,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/strinkin/cpp_workspace/car_software1"
+			"value" : "C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1"
 		}
 	],
 	"kind" : "cache",

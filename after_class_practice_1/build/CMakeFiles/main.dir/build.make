@@ -52,10 +52,10 @@ RM = C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\strinkin\cpp_workspace\car_software1
+CMAKE_SOURCE_DIR = C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\strinkin\cpp_workspace\car_software1\build
+CMAKE_BINARY_DIR = C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -73,93 +73,93 @@ CMakeFiles/main.dir/codegen:
 
 CMakeFiles/main.dir/src/addFixedParam.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/addFixedParam.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
-CMakeFiles/main.dir/src/addFixedParam.cpp.obj: C:/Users/strinkin/cpp_workspace/car_software1/src/addFixedParam.cpp
+CMakeFiles/main.dir/src/addFixedParam.cpp.obj: C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/src/addFixedParam.cpp
 CMakeFiles/main.dir/src/addFixedParam.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\car_software1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/src/addFixedParam.cpp.obj"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/addFixedParam.cpp.obj -MF CMakeFiles\main.dir\src\addFixedParam.cpp.obj.d -o CMakeFiles\main.dir\src\addFixedParam.cpp.obj -c C:\Users\strinkin\cpp_workspace\car_software1\src\addFixedParam.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/src/addFixedParam.cpp.obj"
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/addFixedParam.cpp.obj -MF CMakeFiles\main.dir\src\addFixedParam.cpp.obj.d -o CMakeFiles\main.dir\src\addFixedParam.cpp.obj -c C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\addFixedParam.cpp
 
 CMakeFiles/main.dir/src/addFixedParam.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/addFixedParam.cpp.i"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\car_software1\src\addFixedParam.cpp > CMakeFiles\main.dir\src\addFixedParam.cpp.i
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\addFixedParam.cpp > CMakeFiles\main.dir\src\addFixedParam.cpp.i
 
 CMakeFiles/main.dir/src/addFixedParam.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/addFixedParam.cpp.s"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\car_software1\src\addFixedParam.cpp -o CMakeFiles\main.dir\src\addFixedParam.cpp.s
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\addFixedParam.cpp -o CMakeFiles\main.dir\src\addFixedParam.cpp.s
 
 CMakeFiles/main.dir/src/carInfoUtils.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/carInfoUtils.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
-CMakeFiles/main.dir/src/carInfoUtils.cpp.obj: C:/Users/strinkin/cpp_workspace/car_software1/src/carInfoUtils.cpp
+CMakeFiles/main.dir/src/carInfoUtils.cpp.obj: C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/src/carInfoUtils.cpp
 CMakeFiles/main.dir/src/carInfoUtils.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\car_software1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/carInfoUtils.cpp.obj"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/carInfoUtils.cpp.obj -MF CMakeFiles\main.dir\src\carInfoUtils.cpp.obj.d -o CMakeFiles\main.dir\src\carInfoUtils.cpp.obj -c C:\Users\strinkin\cpp_workspace\car_software1\src\carInfoUtils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/carInfoUtils.cpp.obj"
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/carInfoUtils.cpp.obj -MF CMakeFiles\main.dir\src\carInfoUtils.cpp.obj.d -o CMakeFiles\main.dir\src\carInfoUtils.cpp.obj -c C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\carInfoUtils.cpp
 
 CMakeFiles/main.dir/src/carInfoUtils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/carInfoUtils.cpp.i"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\car_software1\src\carInfoUtils.cpp > CMakeFiles\main.dir\src\carInfoUtils.cpp.i
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\carInfoUtils.cpp > CMakeFiles\main.dir\src\carInfoUtils.cpp.i
 
 CMakeFiles/main.dir/src/carInfoUtils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/carInfoUtils.cpp.s"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\car_software1\src\carInfoUtils.cpp -o CMakeFiles\main.dir\src\carInfoUtils.cpp.s
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\carInfoUtils.cpp -o CMakeFiles\main.dir\src\carInfoUtils.cpp.s
 
 CMakeFiles/main.dir/src/main.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/main.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
-CMakeFiles/main.dir/src/main.cpp.obj: C:/Users/strinkin/cpp_workspace/car_software1/src/main.cpp
+CMakeFiles/main.dir/src/main.cpp.obj: C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/src/main.cpp
 CMakeFiles/main.dir/src/main.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\car_software1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/main.cpp.obj"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.obj -MF CMakeFiles\main.dir\src\main.cpp.obj.d -o CMakeFiles\main.dir\src\main.cpp.obj -c C:\Users\strinkin\cpp_workspace\car_software1\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/main.cpp.obj"
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.obj -MF CMakeFiles\main.dir\src\main.cpp.obj.d -o CMakeFiles\main.dir\src\main.cpp.obj -c C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\main.cpp
 
 CMakeFiles/main.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/main.cpp.i"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\car_software1\src\main.cpp > CMakeFiles\main.dir\src\main.cpp.i
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\main.cpp > CMakeFiles\main.dir\src\main.cpp.i
 
 CMakeFiles/main.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/main.cpp.s"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\car_software1\src\main.cpp -o CMakeFiles\main.dir\src\main.cpp.s
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\main.cpp -o CMakeFiles\main.dir\src\main.cpp.s
 
 CMakeFiles/main.dir/src/parseKeyValue.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/parseKeyValue.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
-CMakeFiles/main.dir/src/parseKeyValue.cpp.obj: C:/Users/strinkin/cpp_workspace/car_software1/src/parseKeyValue.cpp
+CMakeFiles/main.dir/src/parseKeyValue.cpp.obj: C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/src/parseKeyValue.cpp
 CMakeFiles/main.dir/src/parseKeyValue.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\car_software1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/src/parseKeyValue.cpp.obj"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/parseKeyValue.cpp.obj -MF CMakeFiles\main.dir\src\parseKeyValue.cpp.obj.d -o CMakeFiles\main.dir\src\parseKeyValue.cpp.obj -c C:\Users\strinkin\cpp_workspace\car_software1\src\parseKeyValue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/src/parseKeyValue.cpp.obj"
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/parseKeyValue.cpp.obj -MF CMakeFiles\main.dir\src\parseKeyValue.cpp.obj.d -o CMakeFiles\main.dir\src\parseKeyValue.cpp.obj -c C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\parseKeyValue.cpp
 
 CMakeFiles/main.dir/src/parseKeyValue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/parseKeyValue.cpp.i"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\car_software1\src\parseKeyValue.cpp > CMakeFiles\main.dir\src\parseKeyValue.cpp.i
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\parseKeyValue.cpp > CMakeFiles\main.dir\src\parseKeyValue.cpp.i
 
 CMakeFiles/main.dir/src/parseKeyValue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/parseKeyValue.cpp.s"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\car_software1\src\parseKeyValue.cpp -o CMakeFiles\main.dir\src\parseKeyValue.cpp.s
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\parseKeyValue.cpp -o CMakeFiles\main.dir\src\parseKeyValue.cpp.s
 
 CMakeFiles/main.dir/src/printFileContent.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/printFileContent.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
-CMakeFiles/main.dir/src/printFileContent.cpp.obj: C:/Users/strinkin/cpp_workspace/car_software1/src/printFileContent.cpp
+CMakeFiles/main.dir/src/printFileContent.cpp.obj: C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/src/printFileContent.cpp
 CMakeFiles/main.dir/src/printFileContent.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\car_software1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/src/printFileContent.cpp.obj"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/printFileContent.cpp.obj -MF CMakeFiles\main.dir\src\printFileContent.cpp.obj.d -o CMakeFiles\main.dir\src\printFileContent.cpp.obj -c C:\Users\strinkin\cpp_workspace\car_software1\src\printFileContent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/src/printFileContent.cpp.obj"
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/printFileContent.cpp.obj -MF CMakeFiles\main.dir\src\printFileContent.cpp.obj.d -o CMakeFiles\main.dir\src\printFileContent.cpp.obj -c C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\printFileContent.cpp
 
 CMakeFiles/main.dir/src/printFileContent.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/printFileContent.cpp.i"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\car_software1\src\printFileContent.cpp > CMakeFiles\main.dir\src\printFileContent.cpp.i
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\printFileContent.cpp > CMakeFiles\main.dir\src\printFileContent.cpp.i
 
 CMakeFiles/main.dir/src/printFileContent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/printFileContent.cpp.s"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\car_software1\src\printFileContent.cpp -o CMakeFiles\main.dir\src\printFileContent.cpp.s
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\printFileContent.cpp -o CMakeFiles\main.dir\src\printFileContent.cpp.s
 
 CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
-CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj: C:/Users/strinkin/cpp_workspace/car_software1/src/studentInfoUtils.cpp
+CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj: C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/src/studentInfoUtils.cpp
 CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\car_software1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj -MF CMakeFiles\main.dir\src\studentInfoUtils.cpp.obj.d -o CMakeFiles\main.dir\src\studentInfoUtils.cpp.obj -c C:\Users\strinkin\cpp_workspace\car_software1\src\studentInfoUtils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj"
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj -MF CMakeFiles\main.dir\src\studentInfoUtils.cpp.obj.d -o CMakeFiles\main.dir\src\studentInfoUtils.cpp.obj -c C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\studentInfoUtils.cpp
 
 CMakeFiles/main.dir/src/studentInfoUtils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/studentInfoUtils.cpp.i"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\car_software1\src\studentInfoUtils.cpp > CMakeFiles\main.dir\src\studentInfoUtils.cpp.i
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\studentInfoUtils.cpp > CMakeFiles\main.dir\src\studentInfoUtils.cpp.i
 
 CMakeFiles/main.dir/src/studentInfoUtils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/studentInfoUtils.cpp.s"
-	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\car_software1\src\studentInfoUtils.cpp -o CMakeFiles\main.dir\src\studentInfoUtils.cpp.s
+	C:\Users\strinkin\SoftWare\CPlusPlus\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\studentInfoUtils.cpp -o CMakeFiles\main.dir\src\studentInfoUtils.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
@@ -183,7 +183,7 @@ main.exe: CMakeFiles/main.dir/build.make
 main.exe: CMakeFiles/main.dir/linkLibs.rsp
 main.exe: CMakeFiles/main.dir/objects1.rsp
 main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\strinkin\cpp_workspace\car_software1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable main.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -195,6 +195,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\strinkin\cpp_workspace\car_software1 C:\Users\strinkin\cpp_workspace\car_software1 C:\Users\strinkin\cpp_workspace\car_software1\build C:\Users\strinkin\cpp_workspace\car_software1\build C:\Users\strinkin\cpp_workspace\car_software1\build\CMakeFiles\main.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1 C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1 C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\build\CMakeFiles\main.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/main.dir/depend
 

@@ -1,7 +1,7 @@
 CMakeFiles/main.dir/src/carInfoUtils.cpp.obj: \
- C:\Users\strinkin\cpp_workspace\car_software1\src\carInfoUtils.cpp \
- C:/Users/strinkin/cpp_workspace/car_software1/include/carInfoUtils.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/carInfo.h \
+ C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\carInfoUtils.cpp \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/carInfoUtils.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/carInfo.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/string \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/requires_hosted.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -102,15 +102,15 @@ CMakeFiles/main.dir/src/carInfoUtils.cpp.obj: \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator_args.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/tuple \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/chassis.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/tire.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/agx.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/camera.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/common.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/lidar.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/imu.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/screen.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/battery.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/chassis.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/tire.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/agx.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/camera.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/common.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/lidar.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/imu.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/screen.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/battery.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/iostream \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/ostream \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/ostream.h \

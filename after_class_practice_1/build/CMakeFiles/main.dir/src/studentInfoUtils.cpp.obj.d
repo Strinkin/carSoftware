@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj: \
- C:\Users\strinkin\cpp_workspace\car_software1\src\studentInfoUtils.cpp \
- C:/Users/strinkin/cpp_workspace/car_software1/include/studentInfoUtils.h \
+ C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\studentInfoUtils.cpp \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/studentInfoUtils.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/string \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/requires_hosted.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -101,7 +101,7 @@ CMakeFiles/main.dir/src/studentInfoUtils.cpp.obj: \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator_args.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/tuple \
- C:/Users/strinkin/cpp_workspace/car_software1/include/studentInfo.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/studentInfo.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/iostream \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/ostream \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/ostream.h \

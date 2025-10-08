@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/src/main.cpp.obj: \
- C:\Users\strinkin\cpp_workspace\car_software1\src\main.cpp \
+ C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\main.cpp \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/iostream \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/requires_hosted.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -161,21 +161,21 @@ CMakeFiles/main.dir/src/main.cpp.obj: \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/erase_if.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/conio.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/sec_api/conio_s.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/carInfo.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/chassis.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/tire.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/agx.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/camera.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/common.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/lidar.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/imu.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/screen.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/car_parts/battery.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/studentInfo.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/addFixedParam.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/carInfo.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/studentInfo.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/carInfoUtils.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/studentInfoUtils.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/printFileContent.h \
- C:/Users/strinkin/cpp_workspace/car_software1/include/parseKeyValue.h
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/carInfo.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/chassis.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/tire.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/agx.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/camera.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/common.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/lidar.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/imu.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/screen.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/car_parts/battery.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/studentInfo.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/addFixedParam.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/carInfo.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/studentInfo.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/carInfoUtils.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/studentInfoUtils.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/printFileContent.h \
+ C:/Users/strinkin/cpp_workspace/carSoftware/after_class_practice_1/include/parseKeyValue.h

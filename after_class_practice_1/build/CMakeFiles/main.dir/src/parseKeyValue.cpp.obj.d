@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/src/parseKeyValue.cpp.obj: \
- C:\Users\strinkin\cpp_workspace\car_software1\src\parseKeyValue.cpp \
+ C:\Users\strinkin\cpp_workspace\carSoftware\after_class_practice_1\src\parseKeyValue.cpp \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/fstream \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/bits/requires_hosted.h \
  C:/Users/strinkin/SoftWare/CPlusPlus/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
