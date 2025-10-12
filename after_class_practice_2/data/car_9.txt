@@ -1,0 +1,43 @@
+CarInfo
+serial_number:cqusn00000000009
+Chassis
+serial_number:dp10000009
+model:SCOUT MINI
+wheel_base:451
+track_width:490
+min_ground_clearance:115
+min_turning_radius:0
+drive_type:4WD
+max_travel_distance:10
+tire_model:ROAD_TIRE
+tire_size:172
+AGX
+model:AGX Xavier
+AI:32
+cuda_cores:512
+tensor_cores:64
+memory:32
+storage:32
+Camera
+model:RealSense D435i
+rgb_camera:D430
+rgb_resolution:1920,1080
+rgb_fps:30
+fov:87,58
+depth_fps:90
+Lidar
+model:RS-Helios-16
+channels:16
+range:100
+power:8
+IMU
+model:CH110
+manufacturer:NXP
+Screen
+model:super
+size:11.6
+Battery
+voltage:24
+capacity:15
+charge_time:2
+
