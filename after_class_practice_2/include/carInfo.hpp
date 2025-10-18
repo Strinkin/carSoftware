@@ -1,5 +1,5 @@
-#ifndef CARINFO_HPP
-#define CARINFO_HPP
+#ifndef __CARINFO_HPP__
+#define __CARINFO_HPP__
 
 #include <string>
 #include "car_parts/chassis.hpp"
@@ -33,4 +33,4 @@ private:
     std::string serial_number;
 };
 
-#endif // CARINFO_HPP
+#endif // __CARINFO_HPP__

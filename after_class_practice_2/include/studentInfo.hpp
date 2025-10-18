@@ -1,5 +1,5 @@
-#ifndef STUDENTINFO_HPP
-#define STUDENTINFO_HPP
+#ifndef __STUDENTINFO_HPP__
+#define __STUDENTINFO_HPP__
 
 #include <string>
 #include <iostream>
@@ -11,10 +11,10 @@ public:
     void setId(const std::string &s);
     void setName(const std::string &n);
     void print(std::ostream &os = std::cout) const;
-    void save(std::ofstream &ofs) const;
+    void save(std::string &path) const;
 
     std::string id;
     std::string name;
 };
 
-#endif // STUDENTINFO_HPP
+#endif // __STUDENTINFO_HPP__

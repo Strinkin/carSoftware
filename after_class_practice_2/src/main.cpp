@@ -12,9 +12,6 @@
 
 using namespace std;
 
-// (Saving is done by CarInfo::save)
-
-// helper: read file and print content (simple echo)
 void printFileContent(const string &path) {
     ifstream ifs(path);
     if (!ifs) { cerr << "failed to open " << path << "\n"; return; }
@@ -26,51 +23,49 @@ void printFileContent(const string &path) {
 }
 
 int main() {
-    cout << "== 智能小车信息录入 (示例化输入) ==\n";
-    vector<string> files;
-    // create 10 car entries (for demo we'll auto-generate values; user can modify to prompt)
+    cout << "== 信息录入 ==\n";
+    vector<string> car_files;
+    vector<string> stu_files;
+    // create 10 car
     for (int i = 0; i < 10; ++i) {
+        // 文件保存路径
+        string fname_car = string("../after_class_practice_2/data/car_") + to_string(i) + string(".txt");
+        string fname_stu = string("../after_class_practice_2/data/student_") + to_string(i) + string(".txt");
+        // 创建车对象，填充信息
         CarInfo car;
         stringstream ss;
-        ss << "cqusn" << setw(11) << setfill('0') << i; // creates unique id-like string
+        ss << "cqusn" << setw(11) << setfill('0') << i;
         string car_sn = ss.str();
         string chassis_sn = string("dp") + to_string(10000000 + i);
-
         addCarParam(car, car_sn, chassis_sn);
-
-        // example student assignment (saved separately)
+        // 创建学生对象，填充信息
         StudentInfo stu;
         string sid = string("2025") + to_string(100 + i);
         string sname = string("Student_") + to_string(i);
         addStudentParam(stu, sid, sname);
-
-        // save car to file
-        string fname = string("../after_class_practice_2/data/car_") + to_string(i) + string(".txt");
-        car.save(fname);
-        // save student to separate file
-        string snamef = string("../after_class_practice_2/data/student_") + to_string(i) + string(".txt");
-        {
-            ofstream ofs(snamef);
-            if (ofs) stu.save(ofs);
-            ofs.close();
-        }
-        files.push_back(fname);
-        cout << "Saved " << fname << "\n";
+        // 小车、学生信息保存到本地
+        car.save(fname_car);
+        stu.save(fname_stu);
+        // 小车、学生信息保存到vector容器
+        car_files.push_back(fname_car);
+        stu_files.push_back(fname_stu);
+        cout << "Saved " << fname_car << "\n";
+        cout << "Saved " << fname_stu << "\n";
     }
 
     cout << "\n== 从文件读取并浏览 (按 n 下一辆, p 上一辆, q 退出) ==\n";
     int idx = 0;
     while (true) {
-        cout << "\n--- Car " << (idx+1) << " / " << files.size() << " ---\n";
-        printFileContent(files[idx]);
-        // also print assigned student info if available
-        string studentFile = string("../after_class_practice_2/data/student_") + to_string(idx) + string(".txt");
-        cout << "\nAssigned student info:\n";
-        printFileContent(studentFile);
+        cout << "\n--- Car " << (idx+1) << " / " << car_files.size() << " ---\n";
+        // 读取本地文件并打印
+        printFileContent(car_files[idx]);
+        cout << "Assigned student info:\n";
+        printFileContent(stu_files[idx]);
+        // 通过int(idx)进行边界检查
         cout << "按键 (n/p/q): ";
         int c = _getch();
         if (c == 'n' || c == 'N') {
-            if (idx + 1 < (int)files.size()) ++idx; else cout << "已经是最后一辆，无法向后。\n";
+            if (idx + 1 < (int)car_files.size()) ++idx; else cout << "已经是最后一辆，无法向后。\n";
         } else if (c == 'p' || c == 'P') {
             if (idx - 1 >= 0) --idx; else cout << "已经是第一辆，无法向前。\n";
         } else if (c == 'q' || c == 'Q') {
