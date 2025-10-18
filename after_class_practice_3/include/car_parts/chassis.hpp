@@ -33,6 +33,9 @@ public:
     std::string drive_type;
     double max_travel_distance;
     Tire tire;
+
+    //
+    void updateAction(std::string lidar_data);
 };
 
 #endif // CHASSIS_HPP

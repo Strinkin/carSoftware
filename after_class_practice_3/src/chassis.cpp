@@ -41,3 +41,18 @@ void Chassis::save(std::ostream &ofs) const {
     ofs << "tire_model:" << (tire.model==ROAD_TIRE?"ROAD_TIRE":"MECANUM_TIRE") << "\n";
     ofs << "tire_size:" << tire.size << "\n";
 }
+
+void Chassis::updateAction(std::string lidar_data) {
+// （1）	障碍状态为“前方“，则底盘执行”后退“执行
+// （2）	障碍状态为“右前方“，则底盘执行”左转“执行
+// （3）	障碍状态为“左前方“，则底盘执行”右转“执行
+    if (lidar_data == "front") {
+        std::cout << "Chassis action: move backward" << std::endl;
+    } 
+    else if (lidar_data == "front_right") {
+        std::cout << "Chassis action: turn left" << std::endl;
+    } 
+    else if (lidar_data == "front_left") {
+        std::cout << "Chassis action: turn right" << std::endl;
+    }
+}
