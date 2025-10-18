@@ -14,30 +14,30 @@ private:
     std::condition_variable cond_var_;
     
     // 私有构造函数，确保单例
-    Topic() = default;
-    Topic(const Topic&) = delete;
-    Topic& operator=(const Topic&) = delete;
+    Topic() = default; // 默认构造函数
+    Topic(const Topic&) = delete; // 禁止拷贝构造
+    Topic& operator=(const Topic&) = delete; // 禁止赋值操作
 
 public:
     // 获取单例实例
     static Topic& getInstance() {
-        static Topic instance;
-        return instance;
+        static Topic instance; // 局部静态变量，线程安全的单例
+        return instance; // 返回实例引用
     }
 
     // 向队列中添加数据
     void push(const T& value) {
         {
-            std::lock_guard<std::mutex> lock(mutex_);
+            std::lock_guard<std::mutex> lock(mutex_); // 获取锁
             queue_.push(value);
         }
         cond_var_.notify_one();
     }
 
-    // 从队列中取出数据
+    // 从队列中取出数据, 如果没数据则阻塞等待
     T pop() {
-        std::unique_lock<std::mutex> lock(mutex_);
-        cond_var_.wait(lock, [this] { return !queue_.empty(); });
+        std::unique_lock<std::mutex> lock(mutex_); // 获取锁
+        cond_var_.wait(lock, [this] { return !queue_.empty(); }); // 等待直到队列非空
         
         T value = queue_.front();
         queue_.pop();
