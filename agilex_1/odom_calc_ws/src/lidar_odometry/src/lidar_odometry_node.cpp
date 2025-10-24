@@ -26,7 +26,7 @@ void lidarOdomCallback(const nav_msgs::Odometry::ConstPtr& msg) {
 
     double current_time = msg->header.stamp.toSec();
     double current_velocity = msg->twist.twist.linear.x;
-    if (current_velocity < 0) {
+    if (current_velocity < 0.1) {
         current_velocity = 0;
     }
     // 初始化检查
