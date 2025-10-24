@@ -4,7 +4,7 @@
     </node>
 
     <!-- 读取里程计 -->
-    <node name="dodom" pkg="odom_reader" type="odom_reader_node" output="screen">
+    <node name="odom" pkg="odom_reader" type="odom_reader_node" output="screen">
     </node>
 
     <!-- 读取点云 -->
