@@ -7,7 +7,7 @@
     <node name="dodom" pkg="odom_reader" type="odom_reader_node" output="screen">
     </node>
 
-    <!-- 读取电云 -->
+    <!-- 读取点云 -->
     <node name="lidar" pkg="pointcloud_reader" type="pointcloud_reader_node" output="screen">
     </node>
 
