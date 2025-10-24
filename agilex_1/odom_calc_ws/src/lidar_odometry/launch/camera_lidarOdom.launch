@@ -1,0 +1,14 @@
+<launch>
+    <!-- 读取相机 -->
+    <node name="camera" pkg="img_reader" type="img_reader_node" output="screen">
+    </node>
+
+    <!-- 读取里程计 -->
+    <node name="lidarOdom" pkg="lidar_odometry" type="lidar_odometry_node" output="screen">
+    </node>
+
+    <!-- 延迟启动节点 -->
+    <!-- <node name="node4" pkg="package_name" type="executable_name" output="screen" launch-prefix="bash -c 'sleep 5; $0 $@'">
+        <param name="param" value="value" />
+    </node> -->
+</launch>
