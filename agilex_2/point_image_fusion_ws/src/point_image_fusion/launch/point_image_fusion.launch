@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="point_image_fusion" type="point_image_fusion_node" name="point_image_fusion" output="screen">
+        <param name="calibration_file" value="$(find point_image_fusion)/config/result.yaml" />
+    </node>
+</launch>
