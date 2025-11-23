@@ -1,0 +1,2 @@
+add_executable(scout_status_reader scout_status_reader.cpp)
+target_link_libraries(scout_status_reader ugv_sdk)

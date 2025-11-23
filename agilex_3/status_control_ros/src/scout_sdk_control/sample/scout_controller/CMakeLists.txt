@@ -1,0 +1,2 @@
+add_executable(scout_controller scout_controller.cpp)
+target_link_libraries(scout_controller ugv_sdk)
