@@ -1,0 +1,1 @@
+rospy.Publisher('/yolo_result', Int32, queue_size=10)

@@ -1,0 +1,141 @@
+MpcLocalPlannerROS:
+
+  odom_topic: odom
+  # 里程计主题的名称
+
+  ## Robot settings（机器人模型：简单车模 simple_car）
+  robot:
+    type: "simple_car"
+    simple_car:
+      wheelbase: 0.4              # 轴距，前后轮中心的距离
+      front_wheel_driving: False  # 前轮是否驱动
+
+      max_vel_x: 0.2              # 最大线速度（前进）
+      max_vel_x_backwards: 0.1    # 最大线速度（后退）
+      max_steering_angle: 1.0     # 最大转向角度
+
+      acc_lim_x: 0.5              # 最大线性加速度
+      dec_lim_x: 0.5              # 最大线性减速度
+      max_steering_rate: 0.5      # 最大转向角速度（转向角变化速率）
+
+
+  ## Footprint model（足迹模型：用于碰撞检测）
+  footprint_model:
+    type: "line"                  # 足迹类型：点/圆/两圆/线/多边形
+
+    radius: 0.2                   # 若为圆足迹，圆的半径
+    line_start: [0.0, 0.0]        # 线型足迹起点
+    line_end: [0.4, 0.0]          # 线型足迹终点
+
+    front_offset: 0.2             # 两圆模型的前圆偏移
+    front_radius: 0.2             # 前圆半径
+    rear_offset: 0.2              # 后圆偏移
+    rear_radius: 0.2              # 后圆半径
+
+    vertices:                     # 多边形足迹的顶点列表
+      - [0.25, -0.05]
+      - [0.18, -0.05]
+      - [0.18, -0.18]
+      - [-0.19, -0.18]
+      - [-0.25, 0]
+      - [-0.19, 0.18]
+      - [0.18, 0.18]
+      - [0.18, 0.05]
+      - [0.25, 0.05]
+
+    is_footprint_dynamic: False   # 足迹是否动态更新
+
+
+  ## Collision Avoidance（避障相关）
+  collision_avoidance:
+    min_obstacle_dist: 0.27       # 最小障碍物距离，应与足迹大小匹配
+    enable_dynamic_obstacles: False          # 是否启用动态障碍物
+    force_inclusion_dist: 0.5     # 该范围内障碍物必参加 MPC 优化
+    cutoff_dist: 2.5              # 超过此距离的障碍物不考虑
+    include_costmap_obstacles: True  # 使用局部 costmap 障碍物
+    costmap_obstacles_behind_robot_dist: 1.0 # 考虑机器人后方障碍物距离
+    collision_check_no_poses: 5   # 碰撞检测采样姿态数
+
+
+  ## Prediction Grid（预测网格：MPC 离散化设置）
+  grid:
+    type: "fd_grid"               # 有限差分离散化网格
+    grid_size_ref: 20             # 网格参考尺寸（预测步数）
+    dt_ref: 0.3                   # 时间步长
+    xf_fixed: [True, True, False]  # 末端状态是否固定（XYZ/Yaw）
+    warm_start: True              # 启用热启动
+
+    collocation_method: "forward_differences"  # 配点法
+    cost_integration_method: "left_sum"        # 代价积分方法
+
+    variable_grid:
+      enable: True                # 启用可变网格
+      min_dt: 0.0                 # 最小时间步
+      max_dt: 10.0                # 最大时间步
+
+      grid_adaptation:
+        enable: True
+        dt_hyst_ratio: 0.1        # 时间步滞后比
+        min_grid_size: 2          # 最小网格大小
+        max_grid_size: 50         # 最大网格大小
+
+
+  ## Planning（规划目标）
+  planning:
+    objective:
+      type: "minimum_time"        # 最小时间规划（无代价权重）
+    terminal_cost:
+      type: "none"                # 终端成本：无
+    terminal_constraint:
+      type: "none"                # 无终端约束
+
+
+  ## Controller（控制器配置）
+  controller:
+    base_frame_id: base_footprint
+    outer_ocp_iterations: 1       # MPC 外层 OCP 迭代次数
+
+    xy_goal_tolerance: 0.2        # 平面位置容差
+    yaw_goal_tolerance: 0.1       # 朝向容差
+
+    global_plan_overwrite_orientation: True
+    global_plan_prune_distance: 1.0
+    allow_init_with_backward_motion: True
+
+    max_global_plan_lookahead_dist: 1.5
+    force_reinit_new_goal_dist: 1.0
+    force_reinit_new_goal_angular: 1.57
+
+    prefer_x_feedback: False
+    publish_ocp_results: False
+
+
+  ## Solver（求解器设置）
+  solver:
+    type: "ipopt"
+
+    ipopt:
+      iterations: 30
+      max_cpu_time: -1.0
+
+      ipopt_numeric_options:
+        tol: 1e-4
+
+      ipopt_string_options:
+        linear_solver: "mumps"
+        hessian_approximation: "limited-memory"
+
+    lsq_lm:
+      iterations: 10
+      weight_init_eq: 2
+      weight_init_ineq: 2
+      weight_init_bounds: 2
+
+      weight_adapt_factor_eq: 1.5
+      weight_adapt_factor_ineq: 1.5
+      weight_adapt_factor_bounds: 1.5
+
+      weight_adapt_max_eq: 500
+      weight_adapt_max_ineq: 500
+      weight_adapt_max_bounds: 500
+
